@@ -1,5 +1,5 @@
 {
-    "name": "sparkpost/php-sparkpost",
+    "name": "smartbridge/php-sparkpost",
     "description": "Client library for interfacing with the SparkPost API.",
     "license": "Apache 2.0",
     "version": "1.0.2",
@@ -15,7 +15,7 @@
       "test": "phpunit ./test/unit/"
     },
     "require": {
-      "php": ">=5.5.0",
+      "php": ">=5.4.0",
       "egeloen/http-adapter": "*"
     },
     "require-dev": {
